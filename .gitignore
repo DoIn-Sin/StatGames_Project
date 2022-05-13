@@ -129,7 +129,8 @@ dmypy.json
 .pyre/
 
 # Pycharm
-.idea
+.idea/
+migrations/
 
 # Secret Key
 *secret_keys.json
